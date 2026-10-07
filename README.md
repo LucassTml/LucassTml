@@ -28,12 +28,12 @@ What I enjoy most is the engineering of the process: understanding how every ste
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LucassTml&show_icons=true&hide_border=true&hide_rank=true&hide=stars,issues,contribs&theme=github_dark" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=LucassTml&show_icons=true&hide_border=true&hide_rank=true&hide=stars,issues,contribs&theme=default" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LucassTml&show_icons=true&hide_border=true&hide_rank=true&hide=stars%2Cissues%2Ccontribs&theme=github_dark" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=LucassTml&show_icons=true&hide_border=true&hide_rank=true&hide=stars%2Cissues%2Ccontribs&theme=default" alt="GitHub stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LucassTml&layout=compact&hide_border=true&langs_count=8&hide=html,jupyter%20notebook&theme=github_dark" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucassTml&layout=compact&hide_border=true&langs_count=8&hide=html,jupyter%20notebook&theme=default" alt="Top languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LucassTml&layout=compact&hide_border=true&langs_count=8&hide=html%2Cjupyter%20notebook&theme=github_dark" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucassTml&layout=compact&hide_border=true&langs_count=8&hide=html%2Cjupyter%20notebook&theme=default" alt="Top languages" />
   </picture>
 </p>
 
