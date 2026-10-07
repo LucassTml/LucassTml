@@ -1,4 +1,4 @@
-<img src="./assets/neofetch.svg" alt="Sleeping ASCII fox. lucas@github: Lucas Eduardo, CS Eng. Student · AI/LLM, UPE – Poli (2024 – 2029), Recife, PE – Brazil. Focus: local LLMs, AI agents, skills & MCP. Stack: C, Python, JavaScript, Java, Rust. Tools: Docker, n8n, Linux/Unix, Git. Languages: Portuguese (native), English (advanced)." />
+<img src="./assets/neofetch.svg" alt="Sleeping ASCII fox. lucas@github: Lucas Eduardo, CS Eng. Student, UPE – Poli (2024 – 2029), Recife, PE – Brazil. Focus: local LLMs, AI agents, skills & MCP. Stack: C, Python, JavaScript, Java, Rust. Tools: Docker, n8n, Linux/Unix, Git. Languages: Portuguese (native), English (advanced)." />
 
 ### About me
 
