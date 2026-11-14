@@ -13,10 +13,13 @@ What I enjoy most is the engineering of the process: understanding how every ste
 
 ### Featured projects
 
+- **[Audian](https://github.com/LucassTml/audian)**: Open-source voice dictation for Windows, inspired by Wispr Flow. Speech recognition (Whisper/Parakeet) and a small Qwen LLM run fully offline to turn natural speech into polished text in any app. `Rust` `Local LLMs`
 - **[OpenlyAntigravity](https://github.com/LucassTml/OpenlyAntigravity)**: OpenCode plugin that uses your own Antigravity (`agy`) terminal as an agent, so no paid API keys are needed. `JavaScript`
+- **[Ressonância](https://ressonancia-one.vercel.app)**: Interactive encyclopedia of audio, psychoacoustics and IEMs (PT/EN), with dozens of Web Audio labs that process sound right in the browser. `TypeScript` `MDX` `Web Audio`
 - **[GenAI Text-to-SQL](https://github.com/LucassTml/GenAI-WebInterface-RocketLab-2026_2)**: Text-to-SQL agent over a Databricks gold layer, with guardrails, semantic search and a Streamlit UI. `Python` `LLMs`
 - **[PortfolioXP](https://lucasstml.github.io/PortfolioXP/)**: Interactive Windows XP-style portfolio with windows, start menu, terminal and mini-games. `HTML` `CSS` `JS`
 - **[Overwatch-DataMeta](https://github.com/LucassTml/Overwatch-DataMeta)**: Interactive knowledge graph of Overwatch 2 heroes, counters and synergies. `D3.js` `NetworkX`
+- **[Tower Defense](https://github.com/LucassTml/Projeto-TowerDefense)**: Tower defense game built in Java with the Swing library. `Java`
 
 ### Stack
 
